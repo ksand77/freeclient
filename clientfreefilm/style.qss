@@ -1,0 +1,22 @@
+QProgressBar {
+    border: 2px solid black;
+    border-radius: 5px;
+	text-align: center;
+}
+
+QProgressBar::chunk {
+    background-color: #05B8CC;
+    width: 20px;
+}
+QPushButton {
+    border: 2px solid black;
+    border-radius: 5px;
+	 background-color: #4E4BA0;
+	color:white;
+}
+QPushButton:pressed {
+    background-color:black;
+}
+QPushButton:hover {
+    background-color: #1B1868;
+}

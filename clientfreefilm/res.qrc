@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/">
+        <file>style.qss</file>
+        <file>javascript.js</file>
+        <file>jquery-1.11.3.min.js</file>
+        <file>page.html</file>
+    </qresource>
+</RCC>
